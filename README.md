@@ -32,12 +32,19 @@ This assignment aims to familiarize you with the tools and configurations necess
 
    Version Control System: GitHub
    Screenshot: 
-   ![
-   ](<GitHub installation.jpg>)
-   
+   ![alt text](<GitHub installation-1.jpg>)
+   ![alt text](<GitHub login.jpg>)
+   Extensions:![alt text](<GIT EXTENSIONS.jpg>)
+   First commit: ![alt text](<first commit.jpg>)
 
+   
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+  Programming Language: Python
+  Screenshots:
+  ![alt text](Python.jpg)
+  ![alt text](<Python installation.jpg>)
+  ![alt text](<Python IDLE.jpg>)
 
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
