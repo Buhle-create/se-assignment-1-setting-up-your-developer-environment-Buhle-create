@@ -81,10 +81,10 @@ Comprehensive Document:
 Summary:
 -Setting up a development environment can be challenging due to tool compatibility, environment configuration,  database setup, and dependency management issues. 
 -Strategies such as maintaining version files, automating environment setup, using migration tools, and        isolating dependencies with virtual environments or containers can help overcome these challenges.
--Differences in operating systems can create inconsistencies in development environments. To address this, we  standardized the environment using Docker and provided OS-specific setup instructions.
+-Differences in operating systems can create inconsistencies in development environments. To address this, I standardized the environment using Docker and provided OS-specific setup instructions.
  -Initial setup complexity was reduced by automating processes and providing detailed documentation.
   -Ongoing maintenance strategies included CI testing, regular updates, community feedback, and comprehensive documentation. 
-  -By employing these approaches, we streamlined setup, ensured consistency, and improved the overall development experience.
+  -By employing these approaches, l streamlined setup, ensured consistency, and improved the overall development experience.
 
 #Deliverables:
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
