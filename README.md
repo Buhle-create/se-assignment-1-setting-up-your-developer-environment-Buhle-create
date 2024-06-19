@@ -14,6 +14,13 @@ This assignment aims to familiarize you with the tools and configurations necess
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
    Operating System : Windows 11
+   1. Check system requirements
+   2.Back up data
+   3.Download and run the Windows Installation media
+   4.Re start PC and install Windows 11
+   5. Finalise settings and configurations of Windows 11
+   6.Install drivers and updates
+   7. Restore data and install apps
    Screenshot:
 
 
@@ -21,26 +28,35 @@ This assignment aims to familiarize you with the tools and configurations necess
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
 
    IDE: Visual Studio Code
+   1. Download VS Code
+   2.Run the installer
+   3. Follow the installation wizard prompts
+   4.Complete and setup VS Code
+   5. Start coding
    Screenshot:
    ![alt text](<VISUAL STUDIO CODE.jpg>)
-
-
-
 
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
    Version Control System: GitHub
+   1. Download GitHub
+   2. Run the installer
+   3.Install GitHub Desktop
+   4.Setup and use GitHub Desktop
    Screenshot: 
    ![alt text](<GitHub installation-1.jpg>)
    ![alt text](<GitHub login.jpg>)
    Extensions:![alt text](<GIT EXTENSIONS.jpg>)
    First commit: ![alt text](<first commit.jpg>)
 
-   
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
   Programming Language: Python
+  1. Download Python installer and run it
+  2.Install Python and verify the installation
+  3.Setup Environment variables 
+  4. Install pip and verify
   Screenshots:
   ![alt text](Python.jpg)
   ![alt text](<Python installation.jpg>)
@@ -48,19 +64,28 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
-
+1. Pip is verified by default 
+Screenshots:
 ![alt text](PIP.jpg)
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
 Database: MySQL
+1. Download MySQL and run the installer
+2.Initialise abd secure My SQL 
+3.Verify MySQL configuration
+4. Create a new database and user 
 Screenshots:
 ![alt text](<My SQL.jpg>)
 ![alt text](<My SQL 2.jpg>)
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+   1. Download and install Docker
+   2.Verify Docker installation
+   3.Create a Docker File
+   Screenshots:
    ![alt text](Docker.jpg)
 
 8. Explore Extensions and Plugins:
